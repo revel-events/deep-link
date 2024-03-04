@@ -1,0 +1,12 @@
+[
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.revel_events.app",
+        "sha256_cert_fingerprints": [
+          "52:CC:70:FF:EA:F0:0E:A8:6E:C7:A2:CC:90:4F:E6:2A:05:45:BE:0D:E6:EF:02:16:41:46:C1:E5:C2:29:53:ED"
+        ]
+      }
+    }
+  ]
